@@ -1,0 +1,19 @@
+ Is that a mammal?
+Y Is that a herbivore?
+N Does it have legs?
+YY Is small?
+YN Bear
+NY Does it crawl?
+NN Does it crawl?
+YYY Mouse
+YYN Does it live in a forest?
+NYY Croc
+NYN Frog
+NNY Snake
+NNN Does it suck blood?
+YYNY Deer
+YYNN Pig
+NNNY Mosquito
+NNNN Does it live on farm?
+NNNNY Chicken
+NNNNN Penguin
